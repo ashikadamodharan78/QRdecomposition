@@ -63,8 +63,7 @@ QR_Decomposition(a)
 ## Output
 ```
 
-<img width="1449" height="848" alt="Screenshot 2026-11-12 210003" src="https://github.com/user-attachments/assets/d85fccce-b180-4f50-9f0e-723c5a6aaeae" />
-
+<img width="1452" height="887" alt="Screenshot 2026-11-12 204913" src="https://github.com/user-attachments/assets/3d7f064d-f7dd-4c0f-90f3-0151c486a79c" />
 
 ```
 
